@@ -30,17 +30,6 @@ Creator of <strong>Plix VS-Code_Extension</strong> 🚀
 - 💻 Plix VS Code Extension
 - 📖 Documentation
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=orhanalizadeh&show_icons=true&theme=tokyonight" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=orhanalizadeh&layout=compact&theme=tokyonight" />
-
-</p>
 
 ---
 
