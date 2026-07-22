@@ -19,7 +19,7 @@ Creator of <strong>Plix VS-Code_Extension</strong> 🚀
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=js,ts,rust,python,c,c++,npm,nodejs,html,css,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=js,ts,rust,python,c,cpp,npm,nodejs,html,css,git,github,vscode" />
 
 </p>
 
