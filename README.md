@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Orhan Alizadeh</h1>
 
 <p align="center">
-Creator of <strong>Plix Programming Language</strong> 🚀
+Creator of <strong>Plix VS-Code_Extension</strong> 🚀
 </p>
 
 ---
